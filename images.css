@@ -1,6 +1,14 @@
 @charset "UTF-8";
 body {
 background-color:#cccccc;
+a {
+  background-color:#cccccc;
+  transition: background-color .5s;
+}
+
+a:hover {
+  background-color: gold;
+}
 }
 footer {
   text-align: center;
