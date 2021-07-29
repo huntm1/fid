@@ -1,7 +1,7 @@
 @charset "UTF-8";
 body {
  margin: 0 10%;
- font-family: 'Oswald', sans-serif;
+ font-family:sans-serif;
  background-color:#cccccc;
  }
  h1 color: #3D0C02;
@@ -20,7 +20,7 @@ h2 {
 }
 h3 {
   color: #2B1B17;
-  font-family: sans-serif;
+  font-family: 'Oswald';
 }
 footer {
   border-top: 3px solid #2B1B17;
