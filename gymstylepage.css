@@ -1,0 +1,113 @@
+@charset "UTF-8";
+
+body {
+  font-family: serif;
+  font-size: 100%;
+  line-height: 200%;
+  margin: 0 15% 0;
+  text-align: center;
+  background: #e6e6e6;
+}
+header {
+  margin-top: 0;
+  padding: 3em 1em 2em 1em;
+  text-align: center;
+}
+p {
+  font-family: 'Teko', sans-serif;
+  font-size: 25px;
+
+}
+a {
+  text-decoration: none;
+  font-family: 'Teko', sans-serif;
+  font-size: 30px;
+
+}
+a:link {
+  color: #ff6600;
+}
+a:visited {
+  color: #e65c00;
+}
+a:focus, a:hover {
+  color: #ffa366;
+}
+a:active {
+  color: #e65c00;
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Anton', sans-serif;
+  font-weight: normal;
+  margin-top: 30px;
+  color: #003d66;
+}
+h2 {
+  font-size: 1em;
+  font-family: 'Anton', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: .5em;
+  text-align: center;
+  color: #ff9933;
+}
+h3 {
+  font-family: 'Anton', sans-serif;
+  font-size: 25px;
+  color: #99ccff;
+
+}
+dt {
+  font-weight: bold;
+}
+strong {
+  font-style: italic;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+td {
+  font-family: 'Teko', sans-serif;
+  padding: 1em;
+  text-align: center;
+  font-size: 25px;
+}
+
+th {
+  font-family: 'Anton', sans-serif;
+  padding: 1em;
+  text-align: center;
+  font-size: 25px;
+  color: #0099ff;
+
+}
+table {
+
+}
+footer {
+  font-family: 'Anton', sans-serif;
+  border-top: 4px solid #004d80;
+  text-align: center;
+  padding-top: 1em;
+  color: #004d80;
+}
+footer img {
+  width: 40px;
+  height: 40px;
+  margin-left: .5em;
+  margin-right: .5em;
+}
+
+dt {
+  font-family: 'Anton', sans-serif;
+  color: #0000b3;
+
+}
+dd {
+  font-family: 'Teko', sans-serif;
+  font-size: 30px;
+
+}
